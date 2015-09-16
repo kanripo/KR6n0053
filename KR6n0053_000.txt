@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 唯識論
+#+DATE: 2015-08-30 20:56:48.439049
+#+PROPERTY: JUAN 0
